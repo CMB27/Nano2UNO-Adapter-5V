@@ -1,0 +1,18 @@
+The CUI_DEVICES-PJ-102A model was provided by CUI Devices.
+It was recolored to better match the other components, but it is otherwise unchanged.
+
+The following models were taken from the KiCad 3D Models library (Version 5.1.10):
+D_DO-41_SOD81_P10.16mm_Horizontal
+SW_PUSH_6mm
+No changes were made to any of these models.
+
+All other models were created from scratch.
+
+
+The colors used to recolor the parts are as follows:
+Black: #1f1f1f
+Gold: #ffcf5f
+Tin: #cccccc
+White: #ffffff
+Brown: #8b4417
+

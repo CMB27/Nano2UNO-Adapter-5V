@@ -1,0 +1,10 @@
+Item,References,Quantity,Manufacturer,Part Number,Description
+1,,1,,,Nano2UNO Adapter 5V Bare Circuit Board
+2,D1,1,Vishay,SB260S-E3/54,DO-41 Diode
+3,"J1, J3",2,Samtec,ESW-108-33-L-S,1x8 Socket Header
+4,J2,1,Samtec,ESW-110-33-L-S,1x10 Socket Header
+5,J4,1,Samtec,ESW-106-33-L-S,1x6 Socket Header
+6,"J5, J6",2,Sullins,PPPC151LFBN-RC,1x15 Socket Header
+7,J7,1,TSW/Samtec,TSW-103-15-L-D,2x3 Pin Header
+8,J8,1,CUI,PJ-102A,"2.0mm ID, 5.5mm OD Barrel Jack"
+9,SW1,1,TE,1825910-6,6mm Pushbutton Switch
