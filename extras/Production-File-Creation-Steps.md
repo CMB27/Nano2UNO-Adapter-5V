@@ -1,5 +1,5 @@
 # Production File Creation Steps
-These steps are for use with the [Nano2UNO Adapter 3V3 source files](https://github.com/CMB27/Nano2UNO-Adapter-5V/tree/main/src).
+These steps are for use with the [Nano2UNO Adapter 5V source files](https://github.com/CMB27/Nano2UNO-Adapter-5V/tree/main/src).
 
 ## Schematic Editor
 

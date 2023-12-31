@@ -81,8 +81,6 @@ Below are some electronics suppliers I have used in the past:
 
 All of these suppliers have a feature on their respective websites where you can upload a spreadsheet file, such as [Nano2UNO-Adapter-5V-BOM.csv](Nano2UNO-Adapter-5V-BOM.csv), to populate the cart or find parts.
 
-Last I checked, it is not possible to order all the components needed to build a Nano2UNO Adapter 5V from just one of these suppliers. Multiple orders will be needed.
-
 
 ## Assembly
 
